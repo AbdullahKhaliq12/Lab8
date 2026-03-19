@@ -6,6 +6,8 @@ import java.util.List;
 public class CustomList {
     private List<City> cities;
 
+    // checking CI setup
+
     public CustomList() {
         this.cities = new ArrayList<>();
     }
